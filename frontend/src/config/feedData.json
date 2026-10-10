@@ -1,0 +1,204 @@
+
+
+
+{
+  "feed_data": [
+    {
+      "feed_class": "Concentrate",
+      "subclasses": [
+        {
+          "feed_subclass": "Bran",
+          "feeds": [
+            { "feed_name": "Maize Bran", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Rice Bran 16% Oil", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Rice Bran Deoiled", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Wheat Bran", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Chunni",
+          "feeds": [
+            { "feed_name": "Bengalgram Chunni", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Blackgram Chunni", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Moong Chunni", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Red Gram Chunni", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Tur Chunni", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Compound Feed",
+          "feeds": [
+            { "feed_name": "Buffalo Feed", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Bypass Protein Feed", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Calf Feed", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Cattle Feed BIS", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Early Lactation Feed", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Pregnancy Feed", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "DOC/Meal",
+          "feeds": [
+            { "feed_name": "Cottonseed Meal", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Groundnut Meal", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Grain/Seed",
+          "feeds": [
+            { "feed_name": "Bajra Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Bengalgram Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Blackgram Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Horse Gram Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Jowar Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Maize Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Maize bhardo/broken", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Ragi Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Rice Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Soya seeds", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Wheat bhardo/broken", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Wheat Grain", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Husk",
+          "feeds": [
+            { "feed_name": "Paddy Husk", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Maize Husk", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Ragi Husk", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Minerals",
+          "feeds": [
+            { "feed_name": "ASMM Kolhapur", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Mineral Mixture BIS", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Oil Cake",
+          "feeds": [
+            { "feed_name": "Cottonseed Cake", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Groundnut Cake", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Sunflower Cake", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Til Cake", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Other Concentrates",
+          "feeds": [
+            { "feed_name": "Barley Brewery Waste", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Bypass Fat", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "feed_class": "Roughage",
+      "subclasses": [
+        {
+          "feed_subclass": "Grass",
+          "feeds": [
+            { "feed_name": "Elephant Grass", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Guinea Grass", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Hybrid Napier Grass", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Para Grass", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Sudan Grass", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Rhodes Grass", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Green Fodder",
+          "feeds": [
+            { "feed_name": "Bajra Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Cowpea Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Horse Gram Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Hydrophonics  Maize Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Jowar Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Lucerne Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Maize Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Napier Bajra /NB-21", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Paddy Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Ragi Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Stylosanthes Fodder", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Hay",
+          "feeds": [
+            { "feed_name": "Cowpea Hay", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Grass Hay", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Jowar Hay", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Rhodes Grass Hay", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Haylage",
+          "feeds": [
+            { "feed_name": "Cowpea + Maize", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Pillipesara Maize", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Sunhemp Maize", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Leaves",
+          "feeds": [
+            { "feed_name": "Banana Leaves", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Mulberry Leaves", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Sugarcane Leaves", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Subabul Leaves", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Shewari / Sesbania Leaves", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Other Roughage",
+          "feeds": [
+            { "feed_name": "Azolla", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Banana Pseudo stem", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Banana Rootsl", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Banana Suckers", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Maize Cob Waste", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Maize Sheeth", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Sugarcane Top (dry)", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Whole Sugarcane", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Silage",
+          "feeds": [
+            { "feed_name": "Hybrid Napier Silage", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Maize Silage", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "Straw",
+          "feeds": [
+            { "feed_name": "Bajra Straw / stover", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Groundnut Straw ", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Jowar Straw / stover", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Maize Straw / stover", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Paddy Straw", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Paddy Straw Urea Treated", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Pulse Straw", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Ragi Straw", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Soybean Straw", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Wheat Straw", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "Wheat Straw Urea Treated", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        },
+        {
+          "feed_subclass": "TMR",
+          "feeds": [
+            { "feed_name": "Pregnancy TMR", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "TMR E", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "TMR Gold", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "TMR L", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "TMR M", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 },
+            { "feed_name": "TMR Silver", "rate": 0, "quantity": 0, "unit": "Kg", "amount": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

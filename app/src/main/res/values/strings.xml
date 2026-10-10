@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Livestock Manager</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="animals">Animals</string>
+    <string name="new_entry">New Entry</string>
+    <string name="feeding">Feeding</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+</resources>
